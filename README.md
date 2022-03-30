@@ -1,3 +1,4 @@
+username=github名字
 <!--展示自己  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath)
 <!-- 隐藏一些信息 -->
