@@ -1,6 +1,7 @@
 username=github名字
 <!--展示自己  -->
-![oldUath GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath)
+[![oldUath GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath)](https://github.com/oldUath)
+<!-- ![oldUath GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath) -->
 
 <!-- // github - stats -->
 ![oldUath GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath&theme=dark&show_icons=true)
