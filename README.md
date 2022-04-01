@@ -2,7 +2,7 @@
 ## Hey, I am oldUath :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=oldUath&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-I'm **oldUath**, a Front end development.
+<div align="center"><h3>I'm oldUath, a Front end development.</h3></div>
 
 <div align="center">
 	<div align="center"><a><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oldUath&theme=buefy&show_icons=true" /></a></div>
