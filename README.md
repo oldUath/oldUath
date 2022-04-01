@@ -4,6 +4,10 @@
 
 <!-- // total - contribution -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oldUath&theme=highcontrast)
+<p align="center">
+	<img src=".https://github.com/oldUath/to-beautiful/blob/main/icon/vue.svg" width="40" height="40" alt="vue" />
+	<img src=".https://github.com/oldUath/to-beautiful/blob/main/icon/angularjs.svg" width="40" height="40" alt="css" />
+</p>
 
 
 
