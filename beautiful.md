@@ -33,16 +33,4 @@ username=github名字
 dark
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath&show_icons=true&theme=dark)
 
-merko
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath&show_icons=true&theme=merko)
-
-gruvbox
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath&show_icons=true&theme=gruvbox)
-
-tokyonight
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath&show_icons=true&theme=tokyonight)
-
-onedark
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath&show_icons=true&theme=onedark)
-
-
+[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=oldUath&bg_color=000000&color=E30BF9&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/oldUath)
