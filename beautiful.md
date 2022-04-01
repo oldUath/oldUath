@@ -33,4 +33,8 @@ username=github名字
 dark
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oldUath&show_icons=true&theme=dark)
 
+表格
 [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=oldUath&bg_color=000000&color=E30BF9&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/oldUath)
+[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=oldUath&theme=minimal)](https://github.com/oldUath)
+
+<img src="https://github.com/oldUath/to-beautiful/blob/main/icon/github-contribution-grid-snake.svg"></img>
