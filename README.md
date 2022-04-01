@@ -15,7 +15,7 @@
 <a href="https://github.com/Orlandoj77">
   <img height="162px" src="https://github-readme-stats.vercel.app/api?username=oldUath&theme=buefy" /></a> 
 <a href="https://github.com/Orlandoj77">
-  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldUath&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" /></a> 
+  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldUath&layout=compact&theme=buefy" /></a> 
 </div>
 
 1---
@@ -25,3 +25,5 @@
 </div>
 
 
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=oldUath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldUath&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
